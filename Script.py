@@ -43,7 +43,7 @@ Here Is My Help Commands."""
 • /delall - <code>delete the whole filters in a chat (chat owner only)</code>"""
     BUTTON_TXT = """Help: <b>Buttons</b>
 
-- Search Bot Supports both url and alert inline buttons.
+- Doraemon Pocket Bot Supports both url and alert inline buttons.
 
 <b>NOTE:</b>
 1. Telegram will not allow you to send buttons without any content, so content is mandatory.
@@ -78,7 +78,7 @@ Here Is My Help Commands."""
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Search Bot
+These are the extra features of Doraemon Pocket Bot
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
