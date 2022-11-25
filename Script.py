@@ -12,18 +12,19 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://beingtek.com/ref/GreyMatter658')
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Doraemon pocket Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Doraemon. I am here to add unlimited filters for you 😁.</b>
 
 <i>Add Me To Your Group To See The Magic Or Read More From The Menu Below</i>''')
     HELP_TXT = """Hey {}
 Here Is My Help Commands."""
     ABOUT_TXT = """<b><i>🤖 My Name : <a href=https://t.me/DoraemonPocketBot><b>Doraemon Pocket</b></a>\n
 👨‍💻 Developer : <a href=https://t.me/aarthur_dayne><b>Arthur Dayne</b></a>\n
-📝 Language : Pyrogram\n
-📚 Framework : Python 3\n
-📡 Hosted on : Heroku\n
+🧑‍💻 Co-Developer : <a href=https://t.me/astatine_085><b>Astatine 85</b></a>\n
+📝 Language : <a href='https://docs.pyrogram.org/'> Pyrogram</a>\n
+📚 Framework : <a href='https://www.python.org'> Python V3</a>n
+📡 Hosted on : <a href='https://www.liquidweb.com'> Liquid Web</a>\n
 📢 Updates : <a href=https://t.me/movies_halt_update><b></b>Click Here</a>\n
-🌟 Version : ᴠ 1.0\n</b></i>"""
+🌟 Version : <a href='https://www.google.com'> v 1.0</a>\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @aarthur_dayne<b>"""
